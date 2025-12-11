@@ -1,5 +1,5 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = ssh://wyrzykowskij@ssh.mini.pw.edu.pl:~/unix_storage
+    url = ssh://wyrzykowskij@ssh.mini.pw.edu.pl:/home/samba/wyrzykowskij/unix_storage
     user = wyrzykowskij

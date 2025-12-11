@@ -1,2 +1,8 @@
-data
-.dvcignore
+# Ignore everything under data
+data/**
+
+# Allow DVC metadata
+!data/**/
+!data/**/*.dvc
+
+*.cache
